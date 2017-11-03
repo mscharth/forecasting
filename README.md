@@ -1,4 +1,4 @@
-# A short course on forecasting with Python
+# A short course on forecasting
 **Marcel Scharth, The University of Sydney**
 
 This the repository for the forecasting section of Predictive Analytics (QBUS2820), undergradute course at the University of Sydney Business School. 
@@ -14,7 +14,7 @@ This version: Semester 2, 2017.
 <br/>[Exponential Smoothing](https://github.com/mscharth/forecasting/blob/master/Lectures/QBUS2820-12.pdf)
 <br/>[ARIMA models](https://github.com/mscharth/forecasting/blob/master/Lectures/QBUS2820-13.pdf)
 
-## Tutorials
+## Tutorials (Python)
 
 [Working with time stamped data in Python](https://nbviewer.jupyter.org/github/mscharth/forecasting/blob/master/Tutorial07%20Time%20Stamped.ipynb)
 <br/>[Introduction to forecasting in Python](https://nbviewer.jupyter.org/github/mscharth/Forecasting/blob/master/Tutorial11%20Forecasting.ipynb)
