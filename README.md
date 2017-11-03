@@ -17,7 +17,7 @@ This version: Semester 2, 2017.
 ## Tutorials (Python)
 
 [Working with time stamped data in Python](https://nbviewer.jupyter.org/github/mscharth/forecasting/blob/master/Tutorial07%20Time%20Stamped.ipynb)
-<br/>[Introduction to forecasting in Python](https://nbviewer.jupyter.org/github/mscharth/Forecasting/blob/master/Tutorial11%20Forecasting.ipynb)
+<br/>[Introduction to forecasting](https://nbviewer.jupyter.org/github/mscharth/Forecasting/blob/master/Tutorial11%20Forecasting.ipynb)
 <br/>[Holt-Winters smoothing](https://nbviewer.jupyter.org/github/mscharth/Forecasting/blob/master/Tutorial12%20Holt%20Winters%20Smoothing.ipynb)
 <br/>[ARIMA](https://nbviewer.jupyter.org/github/mscharth/Forecasting/blob/master/Tutorial13%20ARIMA.ipynb)
 <br/>[Seasonal ARIMA](https://nbviewer.jupyter.org/github/mscharth/Forecasting/blob/master/Tutorial14%20Seasonal%20ARIMA.ipynb)
