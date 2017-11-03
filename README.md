@@ -1,4 +1,4 @@
-# Forecasting lectures and tutorials
+# A short course on forecasting with Python
 **Marcel Scharth, The University of Sydney**
 
 This the repository for the forecasting section of Predictive Analytics (QBUS2820), undergradute course at the University of Sydney Business School. 
