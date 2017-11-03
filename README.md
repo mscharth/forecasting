@@ -1,7 +1,11 @@
-# Forecasting (QBUS2820)
+# Forecasting with Python
 **Marcel Scharth, The University of Sydney**
 
-This the repository for the forecasting section of Predictive Analytics, undergradute course at the University of Sydney Business School. This version: Semester 2, 2017.
+This the repository for the forecasting section of Predictive Analytics (QBUS2820), undergradute course at the University of Sydney Business School. 
+
+This material draws on the [Forecasting Principles and Practice](https://www.otexts.org/fpp) textbook by Rob Hyndman and George Athanasopoulos. While the textbook and Rob Hyndman's (DataCamp course)[https://www.datacamp.com/courses/forecasting-using-r] use R, the tutorials provide a Python version of related content.  
+
+This version: Semester 2, 2017.
 
 
 ## Lectures
